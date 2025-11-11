@@ -17,7 +17,4 @@ This Python automation project fetches live weather data from the OpenWeatherMap
 - `schedule` — for daily task scheduling
 - `csv` — for logging
 
-### 🪄 How to Run
-```bash
-pip install requests schedule
-python umbrella_reminder.py
+
