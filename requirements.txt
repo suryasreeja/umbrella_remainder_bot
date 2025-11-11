@@ -1,0 +1,5 @@
+requests==2.32.3
+schedule==1.2.1
+Collecting requests==2.32.3
+Collecting schedule==1.2.1
+Successfully installed requests-2.32.3 schedule-1.2.1
